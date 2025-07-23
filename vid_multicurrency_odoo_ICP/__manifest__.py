@@ -17,7 +17,7 @@
     'data': [
         'data/currency_cron.xml',
     ],
-    'image': ['static/description/icp.gif'],
+    'images': ['static/description/icp.gif'],
     'installable': True,
     'application': True,
 
